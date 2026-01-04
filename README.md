@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views?username=Apoorv2606&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Apoorv2606?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" alt="focus" />
 </p>
 
 ---
